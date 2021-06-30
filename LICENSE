@@ -672,3 +672,14 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+                    BEERWARE LICENSE
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE":
+ * Andrzej Kulesza wrote this file. As long as you retain this notice you
+ * can do whatever you want with this stuff under GPLv3 license. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return.
+ * ----------------------------------------------------------------------------
+ */
+
